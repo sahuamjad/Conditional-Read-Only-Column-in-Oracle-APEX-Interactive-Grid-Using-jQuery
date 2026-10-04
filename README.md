@@ -1,0 +1,1 @@
+# Conditional-Read-Only-Column-in-Oracle-APEX-Interactive-Grid-Using-jQuery
